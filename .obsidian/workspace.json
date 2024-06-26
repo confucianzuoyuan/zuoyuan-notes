@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a393c7a1d35219e",
+        "id": "95c6ead0cd95e0f4",
         "type": "tabs",
         "children": [
           {
-            "id": "6f66471a00afc015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le Petit Prince.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c60e67643f7b014",
+            "id": "8f0c187581cb8a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lorsque",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,13 +147,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3c60e67643f7b014",
+  "active": "1f9819175b076de6",
   "lastOpenFiles": [
-    "0300771h-05.jpg",
-    "0300771h-05.jpg.crdownload",
     "Romeo And Juliet.md",
     "Le Petit Prince.md",
     "La Divina Commedia.md",
+    "未命名.canvas",
+    "0300771h-05.jpg",
+    "0300771h-05.jpg.crdownload",
     "整数线性规划.md",
     "INFERNO Canto 1.md",
     "ESP32.md",
@@ -174,7 +162,6 @@
     "未命名 3.canvas",
     "未命名 2.canvas",
     "Excalidraw",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "未命名 1.canvas"
   ]
 }

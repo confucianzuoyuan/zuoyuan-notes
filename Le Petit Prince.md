@@ -62,7 +62,24 @@ Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre s
 > lorsque: when
 > vu: seen
 > une fois: once
-> 
+> magnifique: splendid
+> dans: in
+> sur: about
+> forêt: forest
+> vierge: virgin
+> qui: who
+> appelait: appeler --> call
+> histoires: stories
+> vécues: lived
+> représentait: to represent
+> serpent: snake
+> boa: 蟒蛇
+> avalait: swallow
+> fauve: wild animal
+> voilà: here is
+> copie: copy
+> du: of the
+> dessin: drawing
 
 ![](0300771h-05.jpg)
 
