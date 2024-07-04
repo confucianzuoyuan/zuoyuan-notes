@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "07b099a0341d03fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDITATIONS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c04ede70942aac9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COLLOQUI CON SÉ STESSO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05695db1446448dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THE HEART SUTRA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e4b6b8a9c65b37b",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能锁临时密码.md",
+                "file": "THE HEART SUTRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能锁临时密码.md",
+                "file": "THE HEART SUTRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能锁临时密码.md"
+                "file": "THE HEART SUTRA.md"
               }
             }
           }
@@ -159,12 +196,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8f0c187581cb8a04",
+  "active": "05695db1446448dd",
   "lastOpenFiles": [
+    "COLLOQUI CON SÉ STESSO.md",
+    "THE HEART SUTRA.md",
+    "MEDITATIONS.md",
+    "智能锁临时密码.md",
     "Le Petit Prince.md",
     "0300771h-06.jpg",
     "0300771h-07.jpg",
-    "智能锁临时密码.md",
     "0300771h-08.jpg",
     "Romeo And Juliet.md",
     "La Divina Commedia.md",
