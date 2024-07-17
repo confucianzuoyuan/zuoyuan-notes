@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f0c187581cb8a04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "智能锁临时密码.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "07b099a0341d03fd",
             "type": "leaf",
             "state": {
@@ -32,36 +20,60 @@
             }
           },
           {
-            "id": "c04ede70942aac9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COLLOQUI CON SÉ STESSO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05695db1446448dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE HEART SUTRA.md",
+                "file": "ENGLISH VOCABULARY.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e4b6b8a9c65b37b",
+            "id": "9203961ea7db6561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能锁临时密码.md",
+                "file": "Romeo And Juliet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7b68485fb98cd17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGLISH VOCABULARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a81304b49de6293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A TALE OF TWO CITIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74c7d06accfae80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDITATIONS.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THE HEART SUTRA.md",
+                "file": "ENGLISH VOCABULARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THE HEART SUTRA.md",
+                "file": "ENGLISH VOCABULARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THE HEART SUTRA.md"
+                "file": "ENGLISH VOCABULARY.md"
               }
             }
           }
@@ -196,20 +208,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "05695db1446448dd",
+  "active": "b7b68485fb98cd17",
   "lastOpenFiles": [
-    "COLLOQUI CON SÉ STESSO.md",
-    "THE HEART SUTRA.md",
+    "MEDITATIONS-GEORGE LONG.md",
+    "Romeo And Juliet.md",
     "MEDITATIONS.md",
+    "ENGLISH VOCABULARY.md",
+    "THE LITTLE PRINCE.md",
+    "THE HEART SUTRA.md",
     "智能锁临时密码.md",
+    "A TALE OF TWO CITIES.md",
+    "0300771h-05.jpg",
     "Le Petit Prince.md",
+    "La Divina Commedia.md",
+    "COLLOQUI CON SÉ STESSO.md",
     "0300771h-06.jpg",
     "0300771h-07.jpg",
     "0300771h-08.jpg",
-    "Romeo And Juliet.md",
-    "La Divina Commedia.md",
     "未命名.canvas",
-    "0300771h-05.jpg",
     "0300771h-05.jpg.crdownload",
     "整数线性规划.md",
     "INFERNO Canto 1.md",
