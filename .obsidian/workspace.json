@@ -56,6 +56,42 @@
             }
           },
           {
+            "id": "359caf3a646b1bb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGLISH VOCABULARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cec02d74c10834b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEAN4 NOTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3609970d73574a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A TALE OF TWO CITIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a81304b49de6293",
             "type": "leaf",
             "state": {
@@ -80,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGLISH VOCABULARY.md",
+                "file": "A TALE OF TWO CITIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGLISH VOCABULARY.md",
+                "file": "A TALE OF TWO CITIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGLISH VOCABULARY.md"
+                "file": "A TALE OF TWO CITIES.md"
               }
             }
           }
@@ -208,12 +244,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b7b68485fb98cd17",
+  "active": "3609970d73574a99",
   "lastOpenFiles": [
+    "ENGLISH VOCABULARY.md",
+    "Excalidraw/pratter parser.md",
+    "LEAN4 NOTES.md",
     "MEDITATIONS-GEORGE LONG.md",
+    "Excalidraw",
     "Romeo And Juliet.md",
     "MEDITATIONS.md",
-    "ENGLISH VOCABULARY.md",
     "THE LITTLE PRINCE.md",
     "THE HEART SUTRA.md",
     "智能锁临时密码.md",
@@ -233,7 +272,6 @@
     "Excalidraw/Drawing 2024-06-19 17.55.05.excalidraw.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
-    "Excalidraw",
     "未命名 1.canvas"
   ]
 }
