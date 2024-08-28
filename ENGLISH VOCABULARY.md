@@ -19,3 +19,4 @@
 | improvise       |                     | 1. to compose, recite, play, or sing extemporaneously<br>2. to make, invent, or arrange offhand<br>3. to make or fabricate out of what is conveniently on hand |
 | eerily          | [ˈir-ə-lē]          | in a strange and eerie manner                                                                                                                                  |
 | eerie           | [ˈir-ē]             | so mysterious, strange, or unexpected as to send a chill up the spine                                                                                          |
+| detour          | [ˈdē-ˌtu̇r]         | a deviation from a direct course or the usual procedure；绕行路线                                                                                                   |

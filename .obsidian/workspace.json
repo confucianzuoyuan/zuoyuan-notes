@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH VOCABULARY.md",
+                "file": "MEDITATIONS-GEORGE LONG.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGLISH VOCABULARY.md",
+                "file": "MEDITATIONS-GEORGE LONG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENGLISH VOCABULARY.md",
+                "file": "MEDITATIONS-GEORGE LONG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGLISH VOCABULARY.md"
+                "file": "MEDITATIONS-GEORGE LONG.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "c2efaf161a43088a",
   "lastOpenFiles": [
+    "ENGLISH VOCABULARY.md",
     "MEDITATIONS-GEORGE LONG.md",
     "MEDITATIONS.md",
     "A TALE OF TWO CITIES.md",
-    "ENGLISH VOCABULARY.md",
     "Romeo And Juliet.md",
     "LEAN4 NOTES.md",
     "Excalidraw/pratter parser.md",
