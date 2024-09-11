@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDITATIONS-GEORGE LONG.md",
+                "file": "ENGLISH VOCABULARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDITATIONS-GEORGE LONG.md",
+                "file": "ENGLISH VOCABULARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDITATIONS-GEORGE LONG.md",
+                "file": "ENGLISH VOCABULARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDITATIONS-GEORGE LONG.md"
+                "file": "ENGLISH VOCABULARY.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c2efaf161a43088a",
+  "active": "1f9819175b076de6",
   "lastOpenFiles": [
-    "ENGLISH VOCABULARY.md",
     "MEDITATIONS-GEORGE LONG.md",
+    "ENGLISH VOCABULARY.md",
     "MEDITATIONS.md",
     "A TALE OF TWO CITIES.md",
     "Romeo And Juliet.md",
