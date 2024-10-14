@@ -27,3 +27,21 @@
 | versatile       | [ˈvər-sə-tᵊl]           | 多才多艺的                                                                                                                                                          |
 | verbose         | [(ˌ)vər-ˈbōs]           | containing more words than necessary                                                                                                                           |
 | rudimentary     | [ˌrü-də-ˈmen-tə-rē]     | fundamental                                                                                                                                                    |
+| parameter       | [pə-ˈra-mə-tər]         | 参数                                                                                                                                                             |
+| verdict         | [ˈvər-(ˌ)dikt]          | the finding or decision of a jury on the matter submitted to it in trial                                                                                       |
+| fundamentally   | [ˌfən-də-ˈmen-tᵊl-ē]    |                                                                                                                                                                |
+| incarnation     |                         | 化身                                                                                                                                                             |
+| abusive         |                         | 辱骂的，using harsh, insulting language                                                                                                                            |
+| karmic          |                         | 业力的                                                                                                                                                            |
+| trauma          |                         | 创伤                                                                                                                                                             |
+| emissary        |                         | 使者                                                                                                                                                             |
+| repent          |                         | 悔改                                                                                                                                                             |
+| atone           |                         | 赎罪                                                                                                                                                             |
+| piety           |                         | 虔诚                                                                                                                                                             |
+| inflict         |                         | 造成                                                                                                                                                             |
+| dysfunctional   |                         | 功能失调的                                                                                                                                                          |
+| understatement  |                         | 轻描淡写                                                                                                                                                           |
+| assault         |                         | 攻击                                                                                                                                                             |
+| uncompromising  |                         | 不妥协的                                                                                                                                                           |
+| accommodate     |                         | 容纳                                                                                                                                                             |
+|                 |                         |                                                                                                                                                                |
