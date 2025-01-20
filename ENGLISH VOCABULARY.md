@@ -64,3 +64,4 @@
 | dramatic        |                         | 戏剧性的                                                                                                                                                           |
 | chatter         |                         | 喋喋不休                                                                                                                                                           |
 | subtle          |                         | 微妙的                                                                                                                                                            |
+| acclaimed       |                         | 广受好评的                                                                                                                                                          |
